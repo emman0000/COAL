@@ -1,7 +1,7 @@
 ## Code 
+```
 TITLE Test Program (Test.asm)
 INCLUDE Irvine32.inc
-
 .code
 main PROC
 mov ax, 0
@@ -13,7 +13,7 @@ call DumpRegs
 exit
 main ENDP
 END main
-
+```
 
 
 ### Screen Shot
